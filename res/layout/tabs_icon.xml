@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/tabsLayout" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:background="@drawable/tab_bg_selector"
+	android:gravity="center" android:orientation="vertical">
+	
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:id="@+id/tab_icon" />
+</LinearLayout>
